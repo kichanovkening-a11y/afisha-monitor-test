@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026-10-10T14:00:00Z",
+  "source": "https://vip-teatre.ru/repertuar/",
+  "collection_method": "Verified web-index snapshot; dates not yet checked",
+  "count_pages": 1,
+  "errors": [],
+  "shows": [
+    {
+      "id": 1,
+      "title": "Дубровский",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/dubrovskiy.html",
+      "sellers": {}
+    },
+    {
+      "id": 2,
+      "title": "Отель Филадельфия",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/otel-filadelfiya.html",
+      "sellers": {}
+    },
+    {
+      "id": 3,
+      "title": "Ёлка. Братья месяцы",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/elka-bratya-mesyatsy.html",
+      "sellers": {}
+    },
+    {
+      "id": 4,
+      "title": "Жениться Вам нужно, Барин!",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/zhenitsya-vam-nuzhno-barin.html",
+      "sellers": {}
+    },
+    {
+      "id": 5,
+      "title": "Ёлка в Эстраде «Волшебная лампа Аладдина»",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-volshebnaya-lampa-aladdina.html",
+      "sellers": {}
+    },
+    {
+      "id": 6,
+      "title": "Ёлка в Эстраде «Книга сказок»",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "sellers": {}
+    },
+    {
+      "id": 7,
+      "title": "Любовь и голуби",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/lyubov-i-golubi.html",
+      "sellers": {}
+    },
+    {
+      "id": 8,
+      "title": "Каштанка",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/kashtanka.html",
+      "sellers": {}
+    },
+    {
+      "id": 9,
+      "title": "Владимир Винокур",
+      "date": null,
+      "time": null,
+      "venue": null,
+      "url": "https://vip-teatre.ru/repertuar/vladimir-vinokur.html",
+      "sellers": {}
+    }
+  ]
+}
