@@ -27,5 +27,14 @@ jobs:
           git add data/latest.json data/history.json
           if ! git diff --cached --quiet; then
             git commit -m "Update repertoire and seller checks"
-            git push
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if git rebase origin/main && git push origin HEAD:main; then
+                exit 0
+              fi
+              git rebase --abort || true
+              sleep $((attempt * 3))
+            done
+            echo "Could not save results after retries" >&2
+            exit 1
           fi
