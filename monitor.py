@@ -9,7 +9,9 @@ session.headers.update({"User-Agent":"Mozilla/5.0 (compatible; AfishaMonitorTest
 def fetch(url):
  try:
   r=session.get(url,timeout=20);r.raise_for_status();return r
- except requests.RequestException:return None
+ except requests.RequestException as e:
+  print("FETCH ERROR",url,type(e).__name__,str(e)[:300],flush=True)
+  return None
 def norm(s):return re.sub(r"\s+"," ",s or "").strip()
 def dates(text):
  result=[]
