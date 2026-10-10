@@ -2,6 +2,7 @@ import requests,bs4,re,json,datetime,time,hashlib
 from pathlib import Path
 from urllib.parse import urljoin,quote
 ROOT="https://vip-teatre.ru/repertuar/"
+MIRRORS=["https://www.vip-teatre.ru/repertuar/","http://vip-teatre.ru/repertuar/","http://www.vip-teatre.ru/repertuar/"]
 MONTHS={"января":1,"февраля":2,"марта":3,"апреля":4,"мая":5,"июня":6,"июля":7,"августа":8,"сентября":9,"октября":10,"ноября":11,"декабря":12}
 SELLERS={"Кассир.ру":"https://www.kassir.ru/search?query=","Яндекс Афиша":"https://afisha.yandex.ru/moscow/search?query=","Афиша.ру":"https://www.afisha.ru/search/?q=","Тикетленд":"https://www.ticketland.ru/search/?q="}
 session=requests.Session()
@@ -56,6 +57,10 @@ def probe(show,name,base):
  return {"status":"candidate","reason":"Название найдено в поиске; дата и площадка не подтверждены","search_url":url}
 def main():
  r=fetch(ROOT)
+ if not r:
+  for alternate in MIRRORS:
+   r=fetch(alternate)
+   if r:break
  if not r:raise RuntimeError("Репертуар недоступен; прежние результаты сохранены")
  soup=bs4.BeautifulSoup(r.text,"html.parser")
  links={}
