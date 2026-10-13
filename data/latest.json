@@ -1,90 +1,771 @@
 {
-  "updated_at": "2026-10-10T14:00:00Z",
+  "updated_at": "2026-10-13T05:45:02.443242+00:00",
   "source": "https://vip-teatre.ru/repertuar/",
-  "collection_method": "Verified web-index snapshot; dates not yet checked",
-  "count_pages": 1,
-  "errors": [],
   "shows": [
     {
-      "id": 1,
       "title": "Дубровский",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/dubrovskiy.html",
+      "venue": "",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/actors/ilya-obolonkov/foto-59jhqp-d2023-05-30-40f59e40c16303899c00d6d21c0645bc_200x200_dd9.jpeg",
+      "description": "Репертуар VIP-Театр: Невеста напрокат Владимир Винокур Колесо фортуны Любовь и голуби Ёлка в Эстраде \"Волшебная лампа Аладдина\" Ёлка в Эстраде \"Новогодние приключения Соловья-разбойника\" Роковое наследство",
+      "cast": [],
+      "duration": "",
+      "id": "ce12b6451bef",
+      "date": "",
+      "time": "",
+      "status": "undated",
       "sellers": {}
     },
     {
-      "id": 2,
       "title": "Отель Филадельфия",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/otel-filadelfiya.html",
-      "sellers": {}
+      "venue": "Театр «Русская песня» - основная сцена Метро \"Проспект Мира\", Олимпийский проспект, 14",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/otel-filadelfiya/slider/slide-dkjhsu-d2026-05-21-626h301_626x371_fe6.jpg",
+      "description": "«Отель Филадельфия» — это захватывающая романтическая комедия, в которой изысканный юмор сочетается с неожиданными поворотами сюжета, обескураживающей искренностью и женской мудростью.",
+      "cast": [
+        "Все актеры театра"
+      ],
+      "duration": "",
+      "date": "2026-11-01",
+      "time": "19:00",
+      "id": "9f21d49eb65f",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-11-01"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-11-01"
+        },
+        "Афиша.ру": {
+          "status": "candidate",
+          "reason": "Название найдено в поиске; дата и площадка не подтверждены",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-11-01"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-11-01"
+        }
+      }
     },
     {
-      "id": 3,
+      "title": "Отель Филадельфия",
+      "url": "https://vip-teatre.ru/repertuar/otel-filadelfiya.html",
+      "venue": "Театр «Русская песня» - основная сцена Метро \"Проспект Мира\", Олимпийский проспект, 14",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/otel-filadelfiya/slider/slide-dkjhsu-d2026-05-21-626h301_626x371_fe6.jpg",
+      "description": "«Отель Филадельфия» — это захватывающая романтическая комедия, в которой изысканный юмор сочетается с неожиданными поворотами сюжета, обескураживающей искренностью и женской мудростью.",
+      "cast": [
+        "Все актеры театра"
+      ],
+      "duration": "",
+      "date": "2026-12-26",
+      "time": "20:00",
+      "id": "15c02e34bed7",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-12-26"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-12-26"
+        },
+        "Афиша.ру": {
+          "status": "candidate",
+          "reason": "Название найдено в поиске; дата и площадка не подтверждены",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-12-26"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F%202026-12-26"
+        }
+      }
+    },
+    {
       "title": "Ёлка. Братья месяцы",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/elka-bratya-mesyatsy.html",
+      "venue": "",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-bratya-mesyatsy/slider/slide-u468d1-d2025-09-21-626h371_626x371_fe6.jpg",
+      "description": "Новый год и Рождество — самые долгожданные праздники для детей. Пропахшие еловыми ветками, спелыми мандаринами и шоколадными конфетами, эти дни оставляют в душе у каждого ощущение волшебства. Даже если вашу голову уже посеребрила седина, уверены, вы с детской непосредственностью загадываете самые сокровенные желания под бой курантов, продолжая верить в чудо и сказочные перемены. Мы приглашаем вас посмотреть спектакль «Волшебная лампа Аладдина». В фойе театра будут ждать ростовые куклы, розыгрыши",
+      "cast": [],
+      "duration": "",
+      "id": "9ef9f8a62fc4",
+      "date": "",
+      "time": "",
+      "status": "undated",
       "sellers": {}
     },
     {
-      "id": 4,
       "title": "Жениться Вам нужно, Барин!",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/zhenitsya-vam-nuzhno-barin.html",
-      "sellers": {}
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/ploshchadki/moskovskiy-teatr-estrady/ujvd5o-54d143d2b1b16ea340d7d62ecbabdbd0_150x0_bda.jpeg",
+      "description": "Репертуар VIP-Театр: Невеста напрокат Владимир Винокур Колесо фортуны Любовь и голуби Ёлка в Эстраде \"Волшебная лампа Аладдина\" Ёлка в Эстраде \"Новогодние приключения Соловья-разбойника\" Роковое наследство",
+      "cast": [],
+      "duration": "",
+      "date": "2026-12-27",
+      "time": "20:00",
+      "id": "18b2942351f3",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%96%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%92%D0%B0%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D1%80%D0%B8%D0%BD%21%202026-12-27"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%96%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%92%D0%B0%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D1%80%D0%B8%D0%BD%21%202026-12-27"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%96%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%92%D0%B0%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D1%80%D0%B8%D0%BD%21%202026-12-27"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%96%D0%B5%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%92%D0%B0%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE%2C%20%D0%91%D0%B0%D1%80%D0%B8%D0%BD%21%202026-12-27"
+        }
+      }
     },
     {
-      "id": 5,
-      "title": "Ёлка в Эстраде «Волшебная лампа Аладдина»",
-      "date": null,
-      "time": null,
-      "venue": null,
+      "title": "Ёлка в Эстраде \"Волшебная лампа Аладдина\"",
       "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-volshebnaya-lampa-aladdina.html",
+      "venue": "",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-volshebnaya-lampa-aladdina/slider/slide-5td6oq-d2024-10-01-420h270_626x371_fe6.jpg",
+      "description": "Новый год и Рождество – самые долгожданные праздники для детей. Пропахшие еловыми ветками, спелыми мандаринами и шоколадными конфетами, эти дни оставляют в душе у каждого ощущение волшебства. Даже если вашу голову уже посеребрила седина, уверены, вы с детской непосредственностью загадываете самые сокровенные желания под бой курантов, продолжая верить в чудо и сказочные перемены. Мы приглашаем вас посмотреть спектакль «Волшебная лампа Аладдина»",
+      "cast": [],
+      "duration": "– 1 час 10 мин, спектакль в одном отделении Перед каждым спе",
+      "id": "225934189c9e",
+      "date": "",
+      "time": "",
+      "status": "undated",
       "sellers": {}
     },
     {
-      "id": 6,
-      "title": "Ёлка в Эстраде «Книга сказок»",
-      "date": null,
-      "time": null,
-      "venue": null,
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
       "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
-      "sellers": {}
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2026-12-12",
+      "time": "14:00",
+      "id": "6ac36baf72a3",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-12"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-12"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-12"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-12"
+        }
+      }
     },
     {
-      "id": 7,
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2026-12-26",
+      "time": "17:00",
+      "id": "0841080e77a3",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-26"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-26"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-26"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-26"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2026-12-27",
+      "time": "17:00",
+      "id": "fa079ba96e97",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-27"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-27"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-27"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-27"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2026-12-30",
+      "time": "11:00",
+      "id": "a285c32f7a57",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-30"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-30"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-30"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202026-12-30"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-02",
+      "time": "11:00",
+      "id": "4876957dbedb",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-02",
+      "time": "14:00",
+      "id": "71f92f66a53b",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-02"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-03",
+      "time": "11:00",
+      "id": "d355f42d1f11",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-03",
+      "time": "14:00",
+      "id": "10e3a4ca3d0c",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-03",
+      "time": "17:00",
+      "id": "4936810d53ed",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-03"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-04",
+      "time": "11:00",
+      "id": "0f258e06a1e9",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-04",
+      "time": "14:00",
+      "id": "b9202f1507e5",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-04"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-05",
+      "time": "11:00",
+      "id": "a2e7869ace05",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-05",
+      "time": "14:00",
+      "id": "48b8bbfcc455",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-05"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-06",
+      "time": "11:00",
+      "id": "fa63a821659a",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        }
+      }
+    },
+    {
+      "title": "Ёлка в Эстраде \"Книга сказок\"",
+      "url": "https://vip-teatre.ru/repertuar/elka-v-estrade-kniga-skazok.html",
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/elka-v-estrade-novogodnie-priklyucheniya-solovya-razboynika/slider/slide-yvoral-d2026-08-23-foto-4_626x371_fe6.jpg",
+      "description": "«Книга сказок» — новогодняя ёлка в Московском театре Эстрады для детей и всей семьи. Праздничная программа включает музыкальный спектакль, встречу с Дедом Морозом и Снегурочкой, ростовых кукол, интерактивные игры, мастер-классы и другие новогодние развлечения в фойе театра.",
+      "cast": [],
+      "duration": "",
+      "date": "2027-01-06",
+      "time": "14:00",
+      "id": "a1f7e68f12e4",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%81%D0%BB%D0%BA%D0%B0%20%D0%B2%20%D0%AD%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B5%20%22%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%BA%22%202027-01-06"
+        }
+      }
+    },
+    {
       "title": "Любовь и голуби",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/lyubov-i-golubi.html",
-      "sellers": {}
+      "venue": "Театр «Русская песня» - основная сцена Метро \"Проспект Мира\", Олимпийский проспект, 14",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/lyubov-i-golubi/slider/slide-7ipb1h-d2023-10-18-1_626x371_fe6.jpg",
+      "description": "«Любовь и голуби» — спектакль в Москве по знаменитой пьесе Владимира Гуркина. Лирическая музыкальная комедия о любви, семье, измене и прощении. Среди засилья унылой «чернухи» и пошлости, словно глоток свежего воздуха, возвращение на театральные подмостки всеми любимой истории. Создавая этот спектакль, замечательный режиссёр и актёр театра «Современник» н.а РФ В. Мищенко стремился создать совершенно новое произведение, не повторяя всеми любимую кинокартину . Лиричную, трогательную и невероятно см",
+      "cast": [],
+      "duration": "",
+      "date": "2026-11-03",
+      "time": "19:00",
+      "id": "1a0c9f6be046",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%B8%20%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%202026-11-03"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%B8%20%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%202026-11-03"
+        },
+        "Афиша.ру": {
+          "status": "unverified",
+          "reason": "Совпадение не подтверждено",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%B8%20%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%202026-11-03"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%B8%20%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%202026-11-03"
+        }
+      }
     },
     {
-      "id": 8,
       "title": "Каштанка",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/kashtanka.html",
+      "venue": "",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/lyubov-po-ponedelnikam/slider/slide-uz8c31-d2026-08-23-img-20251105-wa0076_626x371_fe6.jpg",
+      "description": "Музыкальный спектакль для всей семьи по мотивам рассказа А. П. Чехова в исполнении МОСКОВСКОГО ДОМА МЮЗИКЛА",
+      "cast": [],
+      "duration": "",
+      "id": "2d9a0af7a936",
+      "date": "",
+      "time": "",
+      "status": "undated",
       "sellers": {}
     },
     {
-      "id": 9,
       "title": "Владимир Винокур",
-      "date": null,
-      "time": null,
-      "venue": null,
       "url": "https://vip-teatre.ru/repertuar/vladimir-vinokur.html",
-      "sellers": {}
+      "venue": "Московский театр Эстрады Метро \"Полянка\", \"Кропоткинская\". Берсеневская наб. 20/2",
+      "poster": "https://vip-teatre.ru/assets/cache_image/images/events/vladimir-vinokur/slider/slide-vaqnl7-d2023-05-29-a6df3c0cf4ac7cccafef09eaf8bd2e29_626x371_862.jpeg",
+      "description": "Вы являетесь большим поклонником искрометного юмора и талантливых веселых пародий? Тогда приглашаем вас провести вечер в компании легендарного артиста эстрады Владимира Винокура! Вас ждет множество смешных историй, ироничных монологов и потрясающих пародий. Народный артист РСФСР Винокур Владимир Натанович появился на свет 31 марта 1948 г. в городе Курс. Отец – Винокур Натан Львович, строитель. Мать – Винокур Анна Юльевна, учительница русского языка и литературы. 1963-1967 гг. – проходил обучение",
+      "cast": [
+        "Все актеры театра"
+      ],
+      "duration": "",
+      "date": "2027-01-03",
+      "time": "20:00",
+      "id": "46245f6ee4bb",
+      "status": "dated",
+      "sellers": {
+        "Кассир.ру": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.kassir.ru/search?query=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%202027-01-03"
+        },
+        "Яндекс Афиша": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://afisha.yandex.ru/moscow/search?query=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%202027-01-03"
+        },
+        "Афиша.ру": {
+          "status": "candidate",
+          "reason": "Название найдено в поиске; дата и площадка не подтверждены",
+          "search_url": "https://www.afisha.ru/search/?q=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%202027-01-03"
+        },
+        "Тикетленд": {
+          "status": "unverified",
+          "reason": "Поиск недоступен или заблокирован",
+          "search_url": "https://www.ticketland.ru/search/?q=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%202027-01-03"
+        }
+      }
     }
-  ]
+  ],
+  "errors": [],
+  "count_pages": 9,
+  "version": 2
 }
