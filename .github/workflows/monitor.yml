@@ -1,12 +1,6 @@
 name: Collect repertoire and check sellers
 on:
-  push:
-    paths:
-      - 'monitor.py'
-      - '.github/workflows/monitor.yml'
   workflow_dispatch:
-  schedule:
-    - cron: '17 5 * * *'
 permissions:
   contents: write
 jobs:
